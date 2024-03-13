@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 My featured projects are available at [gabriellabroberg.se](gabriellabroberg.se)
+- 👨‍💻 My featured projects are available at [gabriellabroberg.se](www.gabriellabroberg.se)
 
 - 📫 How to reach me **hello@gabriellabroberg.se**
 
