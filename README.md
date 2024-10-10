@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriella</h1>
 <h3 align="center">A passionate frontend developer from Stockholm, Sweden.</h3>
 
-- 🔭 I’m currently working on **Next.Js**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 My featured projects are available at www.gabriellabroberg.se
 
