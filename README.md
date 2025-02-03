@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Stockholm, Sweden.</h3>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently doing my internship at **Karma**
 
 - 👨‍💻 My featured projects are available at www.gabriellabroberg.se
 
